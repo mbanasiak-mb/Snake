@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4N45fNW99j5RjbiMtBIdv7YOx/rQCyAtqzbl77cOKupbU5T0H9rInO34zVrg9iVN9o4LN4eP2KN8lIwM3tifIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repozytoria\\Visual Studio\\SnakeApplication\\SnakeApplication\\SnakeApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
